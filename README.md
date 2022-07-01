@@ -1,4 +1,5 @@
 # Image-Filtering
+![](Kernel.png)
 A kernel is a small matrix used to create effects like smoothing and edge detection.
 
 
